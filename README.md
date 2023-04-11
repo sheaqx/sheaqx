@@ -31,3 +31,13 @@
 ![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=sheaqx)
 
 </div>
+
+# 🚀 Projects
+
+<div align="center">
+  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sheaqx&repo=convert-it&theme=github_dark&hide_border)](https://github.com/sheaqx/convert-it)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sheaqx&repo=call-saul-goodman&theme=github_dark)](https://github.com/sheaqx/call-saul-goodman)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sheaqx&repo=bmi-calculator&theme=github_dark)](https://github.com/sheaqx/bmi-calculator)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sheaqx&repo=password-generator&theme=github_dark)](https://github.com/sheaqx/password-generator)
+</div>
