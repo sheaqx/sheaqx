@@ -5,7 +5,7 @@
 - 🔭 I’m working on various project to perfect my coding skills
 - 📚 I'm currently learning <img src="https://skillicons.dev/icons?i=python" height="30"/>
 - 🎧 In my free time I draw, listen to music and play games
-- 📫 Reach me on [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/sheimane-elabbar/) [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/326810827854315522)
+- 📫 Reach me on [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/sheimane-elabbar/) ![Discord](https://img.shields.io/static/v1?message=sheaqx%238621&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)
 
 # 💻 Tech Stack:
 
