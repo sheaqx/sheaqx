@@ -29,7 +29,7 @@ Feel free to reach if you need anything from work to help with code, i'll be hap
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=3" /></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=3" /></td>
       <td><img src="https://skillicons.dev/icons?i=php,symfony,py,mysql&perline=3" /></td>
       <td><img src="https://skillicons.dev/icons?i=vscode,ubuntu,github,git,figma,photoshop,illustrator,xd,premiere,blender,notion&perline=4" /></td>
     </tr>
